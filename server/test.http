@@ -1,0 +1,26 @@
+GET http://localhost:3000/products
+################################################################
+POST http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "barcode": "9001234567890",
+    "marke": "Mina Mansouri",
+    "produktname": "Minergy",
+    "beschreibung": "Ein Energiedrink, welches beim Programmieren hilft!",
+    "ablaufdatum": "2022-02-18"
+}
+###############
+POST https://imanager-pwa.herokuapp.com/notify
+Content-Type: application/json
+
+{
+    "message": "Sie haben die Applikation erfolgreich abonniert!"
+}
+###############
+POST http://localhost:3000/notify
+Content-Type: application/json
+
+{
+    "message": "Sie haben die Applikation erfolgreich abonniert!"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "barcode": "9003495005612",
+    "marke": "Loidl Spezialitäten",
+    "produktname": "Salami Pralinen",
+    "beschreibung": "Snack aus ausgesuchtem, magerem Schweinefleisch und edlem Rückenspeck hergestellt und mit besten Gewürzen verfeinert",
+    "ablaufdatum": "20.02.2022"
+  },
+  {
+    "barcode": "9001521000358",
+    "marke": "Waldquelle",
+    "produktname": "Natürliches Mineralwasser Still",
+    "beschreibung": "Das Mineralwasser still von Waldquelle ist das Wasser für all jene, die auf Kohlensäure verzichten wollen, jedoch nicht auf die wichtigen Mineralstoffe, die natürliches Mineralwasser zu bieten hat. Es ist damit ein Grundstein in der täglichen Ernährung und kann zum körperlichen Wohlbefinden beitragen.",
+    "ablaufdatum": "27.09.2022"
+  }
+]
